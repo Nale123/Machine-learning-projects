@@ -1,5 +1,5 @@
 # Machine-learning-projects
-Sample solution notebooks for Machine learning compititions.
+Sample solution notebooks for Machine learning competitions.
 
 1. ds-bowl2018 <br />
 This Notebook provides solution to "2018 Data Science Bowl" hosted by kaggle. The main goal of this competition was to detect nuclei in divergent images.
