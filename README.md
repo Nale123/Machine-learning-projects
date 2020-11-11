@@ -10,7 +10,7 @@ This Notebook provides solution to Computer Vision Hackathon hosted by Analytics
 3. predictBreed&petCategory
 This notebook provides solution to HackerEarth Machine Learning Competition-Adopt a buddy August2020.
 
-4.tgs-saltidentification-keras
+4. tgs-saltidentification-keras
 This notebook provides solutions to "TGS Salt Identification Challenge" hosted by kaggle.
 
 
